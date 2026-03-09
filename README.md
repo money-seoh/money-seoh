@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Test Automation Engineer** with experience in **Selenium with Java**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Playwright** ![](https://img.shields.io/badge/InProgress-5%25-orange), **TypeScript** ![](https://img.shields.io/badge/InProgress-30%25-orange)
 - 🔭 Working on: **[current projects or side-projects]**
