@@ -1,11 +1,34 @@
-- 👋 Hi, I’m Shubham
-- 👀 I’m Senior Software Engineer in Test Automation and Cloud Computing Enthusiatic.
-- 🌱 I’m actively working in Selenium web automation with Java language.
-- 🌱 I’m currently learning API testing using RestAssured.
-- 📫 You can reach me on thakurshubham546@hotmail.com .
-- 📫 My LinkedIn profile is [https://www.linkedin.com/in/shubham160893](https://www.linkedin.com/in/shubham160893)
+# Hi there, I'm Shubham! 👋
 
-<!---
-money-seoh/money-seoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me 🚀
+
+I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently learning: **Playwright** ![](https://img.shields.io/badge/InProgress-5%25-orange), **TypeScript** ![](https://img.shields.io/badge/InProgress-30%25-orange)
+- 🔭 Working on: **[current projects or side-projects]**
+- 🌍 Languages: **[programming languages and human languages you speak]**
+- 📫 How to reach me: **[your email address or other contact information]**
+- ⚡ Fun fact: **[a fun fact about yourself]**
+
+## My Skills 🧠
+
+![SELENIUM](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![JENKINS](https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white)
+![GITHUB COPILOT](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge)
+![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
+## My Credentials
+ - Github Copilot Certified
+ - Postman API Fundamentals Student Expert certification
+ - Microsoft Certified Azure Fundamentals
+ - Google Cloud Certified Generative AI Leader
+
+## Get in Touch 📬
+
+- **[Personal Website / Blog]**(your_website_or_blog_link)
+- **[LinkedIn]**(your_linkedin_profile_link)
+- **[Twitter]**(your_twitter_profile_link)
+
+
