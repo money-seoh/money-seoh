@@ -25,11 +25,11 @@ I'm a passionate **Test Automation Engineer** with experience in **Selenium with
  - Microsoft Certified Azure Fundamentals
  - Google Cloud Certified Generative AI Leader
 
-## Credentials & Skills loading
-- Oracle Certified Java Professional
-- Github Foundation Certified
-- Typescript
-- Playwrite
+## Credentials & Skills Loading
+- Github Foundation Certified ![](https://img.shields.io/badge/InProgress-40%25-orange)
+- Typescript ![](https://img.shields.io/badge/InProgress-15%25-orange)
+- Playwright ![](https://img.shields.io/badge/InProgress-5%25-orange)
+- Oracle Certified Java ![](https://img.shields.io/badge/InProgress-0%25-red)
 
 ## Get in Touch 📬
 
