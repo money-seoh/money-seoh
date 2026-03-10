@@ -18,6 +18,7 @@ I'm a passionate **Test Automation Engineer** with experience in **Selenium with
 ![GITHUB COPILOT](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge)
 ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=Jira&logoColor=white)
 
 ## My Credentials
  - Github Copilot Certified
