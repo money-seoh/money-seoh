@@ -6,9 +6,9 @@ I'm a passionate **Test Automation Engineer** with experience in **Selenium with
 
 - 🌱 Currently learning: **Playwright** ![](https://img.shields.io/badge/InProgress-5%25-orange), **TypeScript** ![](https://img.shields.io/badge/InProgress-30%25-orange)
 - 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
+- 🌍 Languages: **Java, C#**
 - 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- ⚡ Fun fact: **I have alter-ego 😉, known as pirate_in_himalaya on Instagram**
 
 ## My Skills 🧠
 
@@ -24,6 +24,12 @@ I'm a passionate **Test Automation Engineer** with experience in **Selenium with
  - Postman API Fundamentals Student Expert certification
  - Microsoft Certified Azure Fundamentals
  - Google Cloud Certified Generative AI Leader
+
+## Credentials & Skills loading
+- Oracle Certified Java Professional
+- Github Foundation Certified
+- Typescript
+- Playwrite
 
 ## Get in Touch 📬
 
