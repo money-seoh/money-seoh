@@ -36,7 +36,7 @@ I'm a passionate **Test Automation Engineer** with experience in **Selenium with
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
+- **[LinkedIn]**(https://www.linkedin.com/in/shubham160893)
 - **[Twitter]**(your_twitter_profile_link)
 
 
