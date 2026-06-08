@@ -29,8 +29,11 @@ I'm a passionate **Test Automation Engineer** with experience in **Selenium with
  - Google Cloud Certified Generative AI Leader (GCP-GAIL) ![](https://img.shields.io/badge/Certified-green)
 
 ## Credentials & Skills Loading
+- Github Actions (GH-200) ![](https://img.shields.io/badge/InProgress-35%25-orange)
 - Typescript ![](https://img.shields.io/badge/InProgress-15%25-orange)
 - Playwright ![](https://img.shields.io/badge/InProgress-5%25-orange)
+- Github Adminstration (GH-100) ![](https://img.shields.io/badge/InProgress-0%25-red)
+- Github Advanced Security (GH-500) ![](https://img.shields.io/badge/InProgress-0%25-red)
 - Oracle Certified Java ![](https://img.shields.io/badge/InProgress-0%25-red)
 
 ## Get in Touch 📬
