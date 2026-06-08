@@ -22,13 +22,13 @@ I'm a passionate **Test Automation Engineer** with experience in **Selenium with
 ![CLAUDE](https://img.shields.io/badge/Claude-orange?style=for-the-badge&logo=Claude&logoColor=white)
 
 ## My Credentials
- - Github Copilot Certified
- - Postman API Fundamentals Student Expert certification
- - Microsoft Certified Azure Fundamentals
- - Google Cloud Certified Generative AI Leader
+ - Github Copilot Certified (GH-300) ![](https://img.shields.io/badge/Certified-green)
+ - Github Foundation Certified (GH-900) ![](https://img.shields.io/badge/Certified-green)
+ - Postman API Fundamentals Student Expert certification ![](https://img.shields.io/badge/Certified-green)
+ - Microsoft Certified Azure Fundamentals (AZ-900) ![](https://img.shields.io/badge/Certified-green)
+ - Google Cloud Certified Generative AI Leader (GCP-GAIL) ![](https://img.shields.io/badge/Certified-green)
 
 ## Credentials & Skills Loading
-- Github Foundation Certified ![](https://img.shields.io/badge/InProgress-40%25-orange)
 - Typescript ![](https://img.shields.io/badge/InProgress-15%25-orange)
 - Playwright ![](https://img.shields.io/badge/InProgress-5%25-orange)
 - Oracle Certified Java ![](https://img.shields.io/badge/InProgress-0%25-red)
