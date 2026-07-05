@@ -22,14 +22,15 @@ I'm a passionate **Test Automation Engineer** with experience in **Selenium with
 ![CLAUDE](https://img.shields.io/badge/Claude-orange?style=for-the-badge&logo=Claude&logoColor=white)
 
 ## My Credentials
- - Github Copilot Certified (GH-300) ![](https://img.shields.io/badge/Certified-green)
  - Github Foundation Certified (GH-900) ![](https://img.shields.io/badge/Certified-green)
- - Postman API Fundamentals Student Expert certification ![](https://img.shields.io/badge/Certified-green)
+ - Github Actions Certified (GH-200) ![](https://img.shields.io/badge/Certified-green)
+ - Github Copilot Certified (GH-300) ![](https://img.shields.io/badge/Certified-green)
  - Microsoft Certified Azure Fundamentals (AZ-900) ![](https://img.shields.io/badge/Certified-green)
+ - Microsoft Certified Azure Data Fundamentals (DP-900) ![](https://img.shields.io/badge/Certified-green)
+ - Postman API Fundamentals Student Expert certification ![](https://img.shields.io/badge/Certified-green)
  - Google Cloud Certified Generative AI Leader (GCP-GAIL) ![](https://img.shields.io/badge/Certified-green)
 
 ## Credentials & Skills Loading
-- Github Actions (GH-200) ![](https://img.shields.io/badge/InProgress-35%25-orange)
 - Typescript ![](https://img.shields.io/badge/InProgress-15%25-orange)
 - Playwright ![](https://img.shields.io/badge/InProgress-5%25-orange)
 - Github Adminstration (GH-100) ![](https://img.shields.io/badge/InProgress-0%25-red)
