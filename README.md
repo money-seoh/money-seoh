@@ -5,9 +5,9 @@
 I'm a passionate **Test Automation Engineer** with experience in **Selenium with Java**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Playwright** ![](https://img.shields.io/badge/InProgress-5%25-orange), **TypeScript** ![](https://img.shields.io/badge/InProgress-30%25-orange)
-- 🔭 Working on: **[current projects or side-projects]**
+- 🔭 Working on: **Typescript Fundamentals**
 - 🌍 Languages: **Java, C#**
-- 📫 How to reach me: **[your email address or other contact information]**
+- 📫 How to reach me: **thakurshubham546@hotmail.com**
 - ⚡ Fun fact: **I have alter-ego 😉, known as pirate_in_himalaya on Instagram**
 
 ## My Skills 🧠
