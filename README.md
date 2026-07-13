@@ -27,7 +27,7 @@
 ![JIRA](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=Jira&logoColor=white)
 ![CLAUDE](https://img.shields.io/badge/Claude-orange?style=for-the-badge&logo=Claude&logoColor=white)
 
-## My Credentials
+## 🤖 Firmware Updates Installed
  - Github Foundation Certified (GH-900) ![](https://img.shields.io/badge/Certified-green)
  - Github Actions Certified (GH-200) ![](https://img.shields.io/badge/Certified-green)
  - Github Copilot Certified (GH-300) ![](https://img.shields.io/badge/Certified-green)
@@ -36,7 +36,7 @@
  - Postman API Fundamentals Student Expert certification ![](https://img.shields.io/badge/Certified-green)
  - Google Cloud Certified Generative AI Leader (GCP-GAIL) ![](https://img.shields.io/badge/Certified-green)
 
-## Credentials & Skills Loading
+## 🛠️ Debugging My Skill Tree
 - Typescript ![](https://img.shields.io/badge/InProgress-15%25-orange)
 - Playwright ![](https://img.shields.io/badge/InProgress-5%25-orange)
 - Github Adminstration (GH-100) ![](https://img.shields.io/badge/InProgress-0%25-red)
