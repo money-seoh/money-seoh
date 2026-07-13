@@ -7,12 +7,14 @@
 🔹 Currently expanding my expertise in **Playwright, TypeScript and AI-powered developer tools** for modern quality assurance practices 
 🔹 AI enthusiast actively exploring Generative AI, GitHub Copilot, prompt engineering, and practical AI applications in software testing
 
+
 🔹 Looking to collaborate on open-source projects related to:
 - Test Automation
 - Playwright
 - Selenium
 - Developer Productivity
 - AI for Quality Engineering
+
 
 ⚡ Beyond debugging test failures, I chase mountain trails and adventures. You can find my travel stories and Himalayan explorations on Instagram as @pirate_in_himalaya.
 
