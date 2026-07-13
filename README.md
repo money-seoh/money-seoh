@@ -2,13 +2,19 @@
 
 ## About Me 🚀
 
-I'm a passionate **Test Automation Engineer** with experience in **Selenium with Java**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+  I'm an experienced Software Development Engineer in Test (SDET) passionate about building reliable, scalable, and maintainable test automation solutions. Strong background in Java-based automation frameworks, Selenium, API testing, CI/CD, and quality engineering practices.
 
-- 🌱 Currently learning: **Playwright** ![](https://img.shields.io/badge/InProgress-5%25-orange), **TypeScript** ![](https://img.shields.io/badge/InProgress-30%25-orange)
-- 🔭 Working on: **Typescript Fundamentals**
-- 🌍 Languages: **Java, C#**
-- 📫 How to reach me: **thakurshubham546@hotmail.com**
-- ⚡ Fun fact: **I have alter-ego 😉, known as pirate_in_himalaya on Instagram**
+🔹 Currently expanding my expertise in **Playwright, TypeScript and AI-powered developer tools** for modern quality assurance practices 
+🔹 AI enthusiast actively exploring Generative AI, GitHub Copilot, prompt engineering, and practical AI applications in software testing
+
+🔹 Looking to collaborate on open-source projects related to:
+- Test Automation
+- Playwright
+- Selenium
+- Developer Productivity
+- AI for Quality Engineering
+
+⚡ Beyond debugging test failures, I chase mountain trails and adventures. You can find my travel stories and Himalayan explorations on Instagram as @pirate_in_himalaya.
 
 ## My Skills 🧠
 
