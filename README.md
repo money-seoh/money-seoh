@@ -16,7 +16,7 @@
 
 ⚡ Beyond debugging test failures, I chase mountain trails and adventures. You can find my travel stories and Himalayan explorations on Instagram as @pirate_in_himalaya.
 
-## My Skills 🧠
+## 🧰 Toolbox of Choice
 
 ![SELENIUM](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
