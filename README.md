@@ -40,6 +40,7 @@
 
 ## 🛠️ Debugging My Skill Tree
 - Typescript ![](https://img.shields.io/badge/InProgress-15%25-orange)
+- GitHub Certified: Agentic AI Developer (GH-600) ![](https://img.shields.io/badge/InProgress-15%25-orange)
 - Playwright ![](https://img.shields.io/badge/InProgress-5%25-orange)
 - Github Adminstration (GH-100) ![](https://img.shields.io/badge/InProgress-0%25-red)
 - Github Advanced Security (GH-500) ![](https://img.shields.io/badge/InProgress-0%25-red)
