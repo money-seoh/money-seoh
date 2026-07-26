@@ -39,7 +39,7 @@
  - Google Cloud Certified Generative AI Leader (GCP-GAIL) ![](https://img.shields.io/badge/Certified-green)
 
 ## 🛠️ Debugging My Skill Tree
-- Typescript ![](https://img.shields.io/badge/InProgress-15%25-orange)
+- Typescript ![](https://img.shields.io/badge/InProgress-20%25-orange)
 - GitHub Certified: Agentic AI Developer (GH-600) ![](https://img.shields.io/badge/InProgress-15%25-orange)
 - Playwright ![](https://img.shields.io/badge/InProgress-5%25-orange)
 - Github Adminstration (GH-100) ![](https://img.shields.io/badge/InProgress-0%25-red)
