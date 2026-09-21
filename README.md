@@ -37,6 +37,8 @@
  - Microsoft Certified Azure Data Fundamentals (DP-900) ![](https://img.shields.io/badge/Certified-green)
  - Postman API Fundamentals Student Expert certification ![](https://img.shields.io/badge/Certified-green)
  - Google Cloud Certified Generative AI Leader (GCP-GAIL) ![](https://img.shields.io/badge/Certified-green)
+ - Google Cloud Certified Partner Specialist Gemini Enterprise Agent Development ![](https://img.shields.io/badge/Certified-green)
+ - Google Cloud Certified Partner Specialist Gemini Enterprise Deployment ![](https://img.shields.io/badge/Certified-green)
 
 ## 🛠️ Debugging My Skill Tree
 - Typescript ![](https://img.shields.io/badge/InProgress-20%25-orange)
