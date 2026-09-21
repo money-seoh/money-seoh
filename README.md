@@ -16,7 +16,7 @@
 - AI for Quality Engineering
 
 
-⚡ Beyond debugging test failures, I chase mountain trails and adventures. You can find my travel stories and Himalayan explorations on Instagram as @pirate_in_himalaya.
+⚡ Beyond debugging test failures, I chase mountain trails and adventures. You can find my travel stories and explorations on Instagram as [@pirate_in_himalaya](https://www.instagram.com/pirate_in_himalaya).
 
 ## 🧰 Toolbox of Choice
 
