@@ -50,7 +50,7 @@
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
+- **[Personal Website / Blog]**([My profession Portfolio](https://money-seoh.github.io/myResume/))
 - **[LinkedIn]**(https://www.linkedin.com/in/shubham160893)
 - **[Twitter]**(your_twitter_profile_link)
 
