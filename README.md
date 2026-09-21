@@ -50,5 +50,5 @@
 
 ## Get in Touch 📬
 
-- **[My Portfolio](https://money-seoh.github.io/myResume/)**
+- **[Portfolio](https://money-seoh.github.io/myResume/)**
 - **[LinkedIn](https://www.linkedin.com/in/shubham160893)**
